@@ -71,15 +71,4 @@ function sortearAmigo() {
 
 ---
 
-## 👥 Contribuciones
-
-Si deseas mejorar este proyecto, ¡siéntete libre de hacer un `fork` y enviar un `pull request`!
-
-1. Haz un `fork` del repositorio
-2. Crea una nueva rama (`git checkout -b feature-nueva-funcion`)
-3. Realiza tus mejoras y haz `commit` (`git commit -m 'Añadir nueva función'`)
-4. Sube los cambios (`git push origin feature-nueva-funcion`)
-5. Abre un `pull request`
-
----
 
